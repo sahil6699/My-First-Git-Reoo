@@ -1,1 +1,2 @@
-How are you
+// sample code of nodejs
+This is a nodejs code
